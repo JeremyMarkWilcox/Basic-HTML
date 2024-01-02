@@ -1,2 +1,2 @@
-# HTML-and-CSS-Projects
-This repository will be for my HTML and CSS Projects
+# Basic HTML
+This repository was for basic HTML exercises.
